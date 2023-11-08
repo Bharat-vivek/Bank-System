@@ -5,7 +5,7 @@ In this Repository I am making the simple bank-System in which we can do transfe
 The recipients data is already stored in the webpage.
 
 ## Run the webpage:-
-click on the link
+click on the link :-
 https://bharat-vivek.github.io/Bank-System/
 
 
